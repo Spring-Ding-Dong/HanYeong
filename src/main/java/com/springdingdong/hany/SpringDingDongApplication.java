@@ -9,7 +9,6 @@ public class SpringDingDongApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(SpringDingDongApplication.class, args);
-
     }
 
 }
